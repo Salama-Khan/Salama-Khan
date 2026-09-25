@@ -4,6 +4,7 @@ I model data and ship Python systems that people actually use.
 
 **Touchline** is the public code: StatsBomb events into Postgres, a Singh-style expected-threat surface, FastAPI, React. Clone: [expectedthreatmodel](https://github.com/Salama-Khan/expectedthreatmodel).
 
-Also: [QLoRA GCSE Biology marker](https://github.com/Salama-Khan/mistral-finetune-pipeline) and a [Scala PDDL parser](https://github.com/Salama-Khan/scala-pddl-parser) from KCL research.
+Also: [QLoRA GCSE Biology marker](https://github.com/Salama-Khan/mistral-finetune-pipeline) and [Postgres EXPLAIN visualiser](https://github.com/Salama-Khan/postgres-explain-visualiser).
 
-Looking for data engineering / Python backend roles. [LinkedIn](https://www.linkedin.com/in/salama-khan)
+Looking for junior data engineering, analytics engineering, or ML engineering roles.
+[LinkedIn](https://www.linkedin.com/in/salama-khan/)
